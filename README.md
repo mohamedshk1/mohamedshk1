@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohamed Shawky Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. 
+- I’m Mohamed Shawky Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. 
 Presented in many programming languages like Python and SQL,
 - I’m currently learning AWS Cloud foundations, and Machine learning algorithms. 
 
